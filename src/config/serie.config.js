@@ -1,38 +1,107 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://amblanco99.github.io",
+  "baseurl": "/oscarsmovies2025",
+  "title": "Colección películas",
+  "subtitle": "Oscars 2025",
+  "credits": "Angélica Blanco",
+  "copyright": "Todos los derechos reservados, 2025",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "Título_español",
+        "label": "Título_español",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "Director",
+        "label": "Director",
+        "type": "text"
+      },
+      {
+        "key": "Guión",
+        "label": "Guión",
+        "type": "text"
+      },
+      {
+        "key": "Actores_principales",
+        "label": "Actores_principales",
+        "type": "text"
+      },
+      {
+        "key": "Editor",
+        "label": "Editor",
+        "type": "text"
+      },
+      {
+        "key": "Cinematografía",
+        "label": "Cinematografía",
+        "type": "text"
+      },
+      {
+        "key": "Género",
+        "label": "Género",
+        "type": "text"
+      },
+      {
+        "key": "País ",
+        "label": "País ",
+        "type": "text"
+      },
+      {
+        "key": "Año",
+        "label": "Año",
+        "type": "text"
+      },
+      {
+        "key": "Duración",
+        "label": "Duración",
+        "type": "text"
+      },
+      {
+        "key": "Idioma",
+        "label": "Idioma",
+        "type": "text"
+      },
+      {
+        "key": "Productora",
+        "label": "Productora",
+        "type": "text"
+      },
+      {
+        "key": "Presupuesto",
+        "label": "Presupuesto",
+        "type": "text"
+      },
+      {
+        "key": "Recaudo ",
+        "label": "Recaudo ",
         "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "Título_español",
+      "Director",
+      "Guión",
+      "Actores_principales",
+      "Editor",
+      "Cinematografía",
+      "Género",
+      "País ",
+      "Año",
+      "Duración",
+      "Idioma",
+      "Productora",
+      "Presupuesto",
+      "Recaudo "
     ]
   }
 };

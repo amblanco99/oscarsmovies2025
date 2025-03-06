@@ -1,0 +1,30 @@
+{
+  "id": "https://amblanco99.github.io/oscarsmovies2025/iiif/DUNA5/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://amblanco99.github.io/oscarsmovies2025/iiif/DUNA5/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://amblanco99.github.io/oscarsmovies2025/iiif/DUNA5/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://amblanco99.github.io/oscarsmovies2025/iiif/DUNA5/manifest/canvas-0.json",
+          "body": {
+            "id": "https://amblanco99.github.io/oscarsmovies2025/iiif/DUNA5/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1104,
+            "width": 736
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 736,
+  "height": 1104,
+  "annotations": []
+}

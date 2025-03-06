@@ -1,5 +1,8 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,Título_español,Director,Guión,Actores_principales,Editor,Cinematografía,Género,País ,Año,Duración,Idioma,Productora,Presupuesto,Recaudo 
+AUN1,Ainda Estou Aqui,Aún estoy aquí,Walter Salles,"Murilo Hauser, Heitor Lorega",Fernanda Torres,Affonso Gonçalves,Adrian Teijido,Drama y cine biográfico,Brasil,2024,135 minutos,Portugués,Arte France Cinéma,$8 millones ,$21 millones 
+ANORA2,Anora,Anora,Sean Baker,Sean Baker,Mikey Madison,Sean Baker,Drew Daniels,"Drama, comedia y romántico",Estados Unidos,2024,139 minutos,"Inglés, Ruso, Armenio",FilmNation Entertainment,$6 millones,$30 millones
+BRUTALISTA3,The Brutalist,El Brutalista,Brady Corbet,"Brady Corbet, Mona Fastvold",Adrien Brody,Dávid Jancsó,Lol Crawley,Drama,"Estados Unidos, Reino Unido, Hungría",2024,215 minutos,"Inglés, Yiddish, Italiano, Húngaro, Hebreo",Andrew Lauren Productions,$9 millones,$36 millones
+CONCLAVE4,Conclave,Cónclave,Edward Berger,Peter Straughan,Ralph Fiennes,Nick Emerson,Stéphane Fontaine,"Suspenso, drama y misterio","Reino Unido, Italia",2024,120 minutos,"Inglés, italiano",FilmNation Entertainment,$20 millones ,$101 millones 
+DUNA5,Dune: Part Two,Duna:parte dos,Denis Villeneuve,Denis Villeneuve,Timothée Chalamet,Joe Walker,Greig Fraser,Ciencia ficción, Estados Unidos,2024,165 minutos,Inglés,Legendary Pictures,$190 millones,$714 millones
+SUSTANCIA6,The Substance,La Sustancia,Coralie Fargeat,Coralie Fargeat, Demi Moore y Margaret Qualley ,Jerome Eltabet,Benjamin Kracun,Terror , Estados Unidos,2024,141 minutos,Inglés,Working Title Films,"$17,5 millones","$78,3 millones"
+WICKED7,Wicked,Wicked,Jon M. Chu,"Stephen Schwartz, Winnie Holzman",Cynthia Erivo  y Ariana Grande,Myron Kerstein,Alice Brooks,Musical, Estados Unidos,2024,160 minutos,Inglés,Marc Platt Productions,$145 millones,$729 millones
