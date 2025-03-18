@@ -19,12 +19,18 @@ Este es el protocolo que especifica la construcción de los datos de la colecci�
 |---     |---                                                                              |---         |
 | pid    | Identificador único                                                             | categórico |
 | label  | Título de la película en idioma original                                        | categórico |
-| Título_español  | Título de la película en español                                       | categórico |
-| Director| Nombre del director de la película                                             | categórico |
-| Guión | Nombdre del escritor del guión de la película                                    | categórico |
-| Actores_principales | Nombre de los atores que hacen de los protagonistas                | categórico |
-| Editor  | Nombre del editor de la película                                               | categórico |
-| Cinematografía | Nombre del cinematografo de la película                                 | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
-
+| Título_español  | Título de la película en la traducción oficial de Latinoamérica        | categórico |
+| Director| Nombre del director(es) de la película                                         | categórico |
+| Guion | Nombre del escritor(es) del guion de la película                                 | categórico |
+| Actores_principales | Nombre del actor(es) protagonistas de la historia                  | categórico |
+| Editor  | Nombre del editor(es) de la película                                           | categórico |
+| Cinematografía | Nombre de la persona que realizó la cinematografía de la película       | categórico |
+| Género  | Género principal de la película, mantener la tendencia principal. Si es 80% drama y 20% comedia, colocar dominante: drama.                                         | categórico |
+| País | País en el que se produjo la película, lugar en el que filmaron, no tiene que coincidir con idioma                                         | categórico |
+| Año  | Año en el que se estrenó la película. Escrito en número completo (p.ej 1589)      | ordinal    |
+| Duración | Número de minutos que dura la película. Escrito solo en minutos, es decir si es una hora colocar 60 (p. ej 180)      | númerico   |
+| Idioma | Idiomas que se hablan en la película, puede que no corresponda al país.         | categórico    |
+| Productora | La productora principal, es decir la que desarrolló la película y no la distribuidora.      | categórico    |
+| Presupuesto | El dinero invertido en la película. La moneda es el dólar. Colocar el número completo separado por puntos (p.ej 4.000.000)      | númerico   |
+| Recaudo  | El recaudo de la película. La moneda es el dólar. Colocar el número completo separado por puntos (p.ej 4.000.000)      | númerico    |
 <MetadataTable />

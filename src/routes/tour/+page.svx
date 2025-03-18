@@ -11,14 +11,16 @@ layout: page
   import VizTree from '$components/VizTree.svelte';
 </script>
 
-# Recorrido por la colección
+# Comentarios relevantes
 
-El primer poster de la colecciòn es el de la película Duna:parte dos
+**La película ganadora a la estatuilla de mejor película fue...**
+<ItemPreview pid="ANORA2" title="Ganadora de cinco premios Óscar: Mejor película, Mejor Director, Mejor Edición, Mejor Guion Original y Mejor Actriz" />
 
-<ItemPreview pid="DUNA5" title=" Poster Dune: Part Two" />
+**La película que debió haber ganado...** 
 
-El segundo poster es el de Cónclave 
+<ItemPreview pid="CONCLAVE4" title=" Ganadora de un premio Óscar: Mejor Guion Adaptado" />
 
-<ItemPreview pid="CONCLAVE4" title=" Poster Cónclave" />
+El género más popular es drama. Observa que otros géneros estaban nominados.
+
 
 <VizBarChart key="Género"/>

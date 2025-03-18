@@ -3,9 +3,9 @@ const config = {
   "localPort": "5173",
   "base": "https://amblanco99.github.io",
   "baseurl": "/oscarsmovies2025",
-  "title": "Colección películas",
-  "subtitle": "Oscars 2025",
-  "credits": "Angélica Blanco",
+  "title": "Luces, Cámara, Estatuillas",
+  "subtitle": "Colección de películas nominadas a los Óscar 2025",
+  "credits": "Por Angélica Blanco",
   "copyright": "Todos los derechos reservados, 2025",
   "pages": {
     "iiifViewer": true,
@@ -26,8 +26,8 @@ const config = {
         "type": "text"
       },
       {
-        "key": "Guión",
-        "label": "Guión",
+        "key": "Guion",
+        "label": "Guion",
         "type": "text"
       },
       {
@@ -90,7 +90,7 @@ const config = {
       "label",
       "Título_español",
       "Director",
-      "Guión",
+      "Guion",
       "Actores_principales",
       "Editor",
       "Cinematografía",

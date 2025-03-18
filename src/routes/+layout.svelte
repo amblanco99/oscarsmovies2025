@@ -8,10 +8,10 @@
 
 <style>
   :global(:root){
-    --stroke: black; /* Font color */
-    --fill: #fbfaf6; /* Background color */
-    --accent1: rgb(123, 120, 120); /* Main color */
-    --accent2: #000000; /* Higlights color */
+    --stroke: #552619; /* Font color */
+    --fill: #FBEAE7,; /* Background color */
+    --accent1: #B2456E; /* Main color */
+    --accent2: #552619; /* Higlights color */
     --mainfont: "Courier Prime", monospace;
     --headerfont: "Courier Prime", monospace;
     font-family: var(--mainfont);
